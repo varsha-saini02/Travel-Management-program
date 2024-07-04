@@ -1,0 +1,7 @@
+
+Customer ID: 789
+Name: varsha
+Age: 20
+Mobile Number: 773783
+Address: delhi
+Gender: female
